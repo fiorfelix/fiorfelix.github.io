@@ -233,3 +233,43 @@
   font-family: 'Oswald', sans-serif;
   color: #000000;
 }
+
+
+
+
+
+#dropdown-menu-o .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-o .nav .link,
+#dropdown-menu-o .dropdown-item {
+  font-size: 1.2em;
+  color: #000000;
+  font-family: 'Oswald', sans-serif;
+}
+#dropdown-menu-o .navbar,
+#dropdown-menu-o .dropdown-menu {
+  background: #efefef;
+}
+#dropdown-menu-o .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-o .dropdown-menu a:hover,
+#dropdown-menu-o .dropdown-menu a:focus {
+  background: #e5e5e5;
+}
+#dropdown-menu-o .navbar-toggler {
+  color: #000000;
+}
+#dropdown-menu-o .btn {
+  font-family: 'Oswald', sans-serif;
+}
+#contacts1-p STRONG {
+  font-family: 'Oswald', sans-serif;
+}
+#contacts1-p P {
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #000000;
+}
+#contacts1-p UL {
+  font-family: 'Oswald', sans-serif;
+  color: #000000;
+}
