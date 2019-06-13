@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "FiorFelix",
-    "currentPage": "collection-overview.html",
+    "name": "FIORFELIX",
+    "currentPage": "home.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -13,22 +13,26 @@
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-142047056-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-142047056-1');\r\n</script>",
     "cookiesAlert": "",
     "versionFirst": "3.11.1",
-    "uniqCompNum": 28,
+    "uniqCompNum": 30,
     "versionPublish": "4.10.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteFonts": [],
-    "gdpr": ""
+    "gdpr": "",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "",
+    "siteUrl": "",
+    "sitemapSwitcherAuto": "on"
   },
   "pages": {
     "jewels-her.html": {
       "settings": {
-        "title": "For Her | FiorFelix",
+        "title": "For Her | FIORFELIX",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -38,7 +42,7 @@
             },
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
-              "font-size": "1.2em",
+              "font-size": "1.6em",
               "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-family": "'Oswald', sans-serif"
@@ -308,12 +312,12 @@
     },
     "product1.html": {
       "settings": {
-        "title": "PDP | FiorFelix",
+        "title": "PDP | FIORFELIX",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -323,7 +327,7 @@
             },
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
-              "font-size": "1.2em",
+              "font-size": "1.6em",
               "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-family": "'Oswald', sans-serif"
@@ -569,8 +573,8 @@
     "collection-overview.html": {
       "settings": {
         "meta_descr": "Description....",
-        "title": "Collection Overview  | FiorFelix",
-        "order": 1
+        "title": "Collection Overview  | FIORFELIX",
+        "order": 2
       },
       "components": [
         {
@@ -773,12 +777,12 @@
     },
     "contact-us.html": {
       "settings": {
-        "title": "Contact Us | FiorFelix",
+        "title": "Contact Us | FIORFELIX",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -788,7 +792,7 @@
             },
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
-              "font-size": "1.2em",
+              "font-size": "1.6em",
               "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-family": "'Oswald', sans-serif"
@@ -965,12 +969,12 @@
     },
     "about-us.html": {
       "settings": {
-        "title": "About Us | FiorFelix",
+        "title": "About Us | FIORFELIX",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1262,7 +1266,7 @@
     "home.html": {
       "settings": {
         "main": true,
-        "title": "Rare Italian Coins | FiorFelix",
+        "title": "Rare Italian Coins | FIORFELIX",
         "meta_descr": "Description....",
         "header_custom": "",
         "footer_custom": "",
