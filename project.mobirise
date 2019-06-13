@@ -1,21 +1,23 @@
 {
   "settings": {
-    "name": "Project_Heidi",
+    "name": "FiorFelix",
     "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
-    "favicon": "@PROJECT_PATH@/assets/images/fiorfelix-logo0.gif",
+    "favicon": "",
     "noImageResize": "",
-    "google-analytics": "",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-142047056-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-142047056-1');\r\n</script>",
     "cookiesAlert": "",
     "versionFirst": "3.11.1",
     "uniqCompNum": 24,
-    "versionPublish": "4.4.1",
+    "versionPublish": "4.10.3",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "siteFonts": [],
+    "gdpr": ""
   },
   "pages": {
     "index.html": {
