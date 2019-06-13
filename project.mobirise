@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FiorFelix",
-    "currentPage": "home.html",
+    "currentPage": "collection-overview.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -568,7 +568,7 @@
     },
     "collection-overview.html": {
       "settings": {
-        "meta_descr": "Description....\n\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-142047056-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-142047056-1');\n</script>",
+        "meta_descr": "Description....\">\n\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-142047056-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-142047056-1');\n</script>",
         "title": "Collection Overview  | FiorFelix",
         "order": 1
       },
@@ -1263,7 +1263,7 @@
       "settings": {
         "main": true,
         "title": "Rare Italian Coins | FiorFelix",
-        "meta_descr": "Description.....\n\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-142047056-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-142047056-1');\n</script>",
+        "meta_descr": "Description.....\">\n\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-142047056-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-142047056-1');\n</script>",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
